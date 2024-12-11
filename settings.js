@@ -14,7 +14,7 @@ const profileSettings = {
     { title: "Instagram", url: "https://www.tiktok.com/@xrezz72", icon: "fa-tiktok" }, // Tautan Instagram
     { title: "Telegram", url: "https://t.me/", icon: "fa-telegram" }, // Tautan Telegram
     { title: "Email", url: "mailto:rezocf@gmail.com", icon: "fa-envelope" }, // Tautan Email
-    { title: "WhatsApp", url: "https://wa.", icon: "fa-whatsapp" }, // Tautan WhatsApp
+    { title: "WhatsApp", url: "https://cuty.io/RezOcf", icon: "fa-whatsapp" }, // Tautan WhatsApp
     { title: "YouTube", url: "https://youtube.com/", icon: "fa-youtube" } // Tautan YouTube
   ]
 };

@@ -10,7 +10,7 @@ const profileSettings = {
   name: "A R E S", // Nama profil
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
-    { title: "Dukungan", url: "https://saweria.co/rezcv", icon: "fa-buymeacoffee" }, // Tautan GitHub
+    { title: "Dukungan", url: "https://saweria.co/rezcv", icon: "fa-money" }, // Tautan GitHub
     { title: "Instagram", url: "https://www.instagram.com/rez_6072/", icon: "fa-instagram" }, // Tautan Instagram
     { title: "Telegram", url: "https://cuty.io/RezTelegram", icon: "fa-telegram" }, // Tautan Telegram
     { title: "Email", url: "mailto:rezocf@gmail.com", icon: "fa-envelope" }, // Tautan Email

@@ -11,7 +11,7 @@ const profileSettings = {
   occupation: "Creator & Developer", // Pekerjaan atau jabatan
   links: [
     { title: "GitHub", url: "https://github.com/login", icon: "fa-github" }, // Tautan GitHub
-    { title: "Instagram", url: "", icon: "fa-instagram" }, // Tautan Instagram
+    { title: "Instagram", url: "https://www.instagram.com/rez_6072/", icon: "fa-instagram" }, // Tautan Instagram
     { title: "Telegram", url: "https://cuty.io/RezTelegram", icon: "fa-telegram" }, // Tautan Telegram
     { title: "Email", url: "mailto:rezocf@gmail.com", icon: "fa-envelope" }, // Tautan Email
     { title: "WhatsApp", url: "https://cuty.io/RezOcf", icon: "fa-whatsapp" } // Tautan WhatsApp
